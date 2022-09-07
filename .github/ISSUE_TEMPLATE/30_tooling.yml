@@ -1,8 +1,6 @@
 name: Tool idea
 description: I have an idea for or need specific tooling for CITATION.cff files
-title: ''
 labels: ['help wanted', 'tooling']
-assignees: ''
 body:
   - type: markdown
     attributes:
@@ -54,7 +52,7 @@ body:
       label: Can you help?
       description: Indicate if you will be able to work on the implementation yourself.
       options:
-        - Yes
-        - No
+        - 'Yes'
+        - 'No'
     validations:
       required: true
