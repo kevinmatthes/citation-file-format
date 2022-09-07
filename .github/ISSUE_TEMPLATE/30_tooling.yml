@@ -4,7 +4,7 @@ labels: ['help wanted', 'tooling']
 body:
   - type: markdown
     attributes:
-      value: Please have a look at the [section on tooling for CITATION.cff](https://github.com/citation-file-format/citation-file-format#tools-to-work-with-citationcff-files-wrench) files before submitting this issue.
+      value: Please have a look at the [section on tooling for CITATION.cff files](https://github.com/citation-file-format/citation-file-format#tools-to-work-with-citationcff-files-wrench) before submitting this issue.
   - type: textarea
     attributes:
       label: Who needs the new tool?
