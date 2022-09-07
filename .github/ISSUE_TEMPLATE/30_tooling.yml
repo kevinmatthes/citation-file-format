@@ -10,7 +10,7 @@ body:
       label: Who needs the new tool?
       description: Describe the type of user that would need the new tool.
       placeholder: |
-        Example:
+        Examples:
 
         * Researchers
         * A software registry
@@ -41,7 +41,7 @@ body:
       label: Implementation suggestions
       description: Do you have a specific technology or programming language in mind for the implementation of the new tool?  If so, please describe why.
       placeholder: |
-        Example:
+        Examples:
 
         * This could be a website hosted by the software registries that want to use this functionality.
         * This could be a Python package with a command-line interface.
@@ -50,7 +50,7 @@ body:
   - type: dropdown
     attributes:
       label: Can you help?
-      description: Indicate if you will be able to work on the implementation yourself.
+      description: Indicate whether you will be able to work on the implementation yourself.
       options:
         - 'Yes'
         - 'No'
